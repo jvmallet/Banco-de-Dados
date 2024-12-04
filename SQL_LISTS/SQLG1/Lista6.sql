@@ -1,3 +1,4 @@
+
 -- 1
 
 SELECT Distinct fabricante,pais
